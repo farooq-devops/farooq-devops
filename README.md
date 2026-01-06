@@ -1,113 +1,59 @@
-👋 Hi, I'm Mohammed Farooq
+Hi there, I'm Mohammed Farooq! 👋
 
-🚀 DevOps Engineer | AWS | CI/CD | Kubernetes | Terraform
+## 🚀 About Me
+🔭 I'm a DevOps Engineer specializing in Cloud Infrastructure and CI/CD Automation  
+🌱 Currently working with AWS, Docker, Kubernetes, Terraform, and Jenkins  
+🎓 Bachelor of Engineering (Information Technology) graduate  
+🛠️ Experienced in end-to-end DevOps lifecycle and cloud automation  
+📫 Reach me at mohammedfarooq.devops@gmail.com  
 
-Motivated DevOps Engineer with a strong foundation in cloud infrastructure, CI/CD automation, and container orchestration. I enjoy building scalable, secure, and production-ready systems using AWS and modern DevOps tools.
+---
 
-🧑‍💻 About Me
+## 🌐 Connect with me
+[LinkedIn](https://www.linkedin.com/in/your-linkedin-username)  
+[GitHub](https://github.com/farooq-devops)
 
-🎓 Bachelor of Engineering (IT) graduate (2021–2025)
+---
 
-☁️ Hands-on experience with AWS, DevOps, and Cloud Automation
+## 🛠️ Technologies & Tools
 
-🔁 Strong understanding of the end-to-end DevOps lifecycle
+### Cloud & Infrastructure
+![AWS](https://img.shields.io/badge/AWS-FF9900?logo=amazonaws&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-000000?logo=linux&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?logo=ansible&logoColor=white)
 
-🛠️ Passionate about Infrastructure as Code, CI/CD, and Kubernetes
+### Container & Orchestration
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
+![Amazon EKS](https://img.shields.io/badge/Amazon_EKS-FF9900?logo=amazonaws&logoColor=white)
+![NGINX](https://img.shields.io/badge/NGINX_Ingress-009639?logo=nginx&logoColor=white)
 
-📍 Based in Hyderabad, India
+### CI/CD & GitOps
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/Argo_CD-EF7B4D?logo=argo&logoColor=white)
 
-🛠️ Tech Stack & Tools
-☁️ Cloud
+### Monitoring & Logging
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white)
+![CloudWatch](https://img.shields.io/badge/AWS_CloudWatch-FF9900?logo=amazonaws&logoColor=white)
 
-AWS (EC2, S3, IAM, VPC, RDS, Route 53, CloudWatch, CloudFront, WAF)
+### AWS Services
+EC2 • EKS • S3 • RDS • IAM • CloudFront • Route 53 • WAF • ALB • NLB • CloudWatch
 
-🏗️ Infrastructure as Code
+---
 
-Terraform
+## 📊 GitHub Stats
+![Farooq's GitHub stats](https://github-readme-stats.vercel.app/api?username=farooq-devops)
 
-Ansible
+---
 
-🔁 CI/CD
+## 📌 Pinned Projects
+👨‍💻 Check out all my projects at  
+https://github.com/farooq-devops?tab=repositories
 
-Jenkins
+---
 
-GitHub
-
-Maven, SonarQube, Nexus
-
-🐳 Containers & Orchestration
-
-Docker
-
-Kubernetes
-
-Amazon EKS
-
-NGINX Ingress
-
-📊 Monitoring & Observability
-
-Prometheus
-
-Grafana
-
-AWS CloudWatch
-
-💻 OS & Scripting
-
-Linux (Ubuntu, Red Hat, Amazon Linux)
-
-Shell Scripting
-
-Python
-
-YAML
-
-🚀 Projects
-🔹 AWS 3-Tier Application Deployment (Manual & Terraform)
-
-Designed and implemented a production-ready 3-tier AWS architecture with VPC, multi-AZ networking, ALB/NLB, Auto Scaling Groups, EC2, and MySQL RDS.
-
-Built infrastructure manually first, then automated completely using Terraform (IaC).
-
-Used S3 + DynamoDB for remote Terraform state management and locking.
-
-Enhanced security and reliability using CloudFront, ACM, Route 53, WAF, and IAM.
-
-Implemented CloudWatch monitoring, SNS + Lambda Slack alerts, and Auto Scaling cost optimization.
-
-🔹 Kubernetes Deployment & Observability on AWS EKS
-
-Deployed microservices manually on AWS EKS using Kubernetes Deployments and Services.
-
-Configured NGINX Ingress for traffic routing.
-
-Implemented GitOps-based deployments using Argo CD.
-
-Set up monitoring, logging, and alerting for Kubernetes workloads.
-
-🔹 Jenkins CI/CD Pipeline Automation
-
-Built a complete CI/CD pipeline using Jenkins integrated with GitHub.
-
-Automated build and quality checks using Maven and SonarQube.
-
-Managed artifacts with Nexus Repository.
-
-Automated Docker image build, push, and Kubernetes deployment via Jenkins pipelines.
-
-Integrated Slack notifications for pipeline status.
-
-📊 GitHub Stats
-
-📫 Connect With Me
-
-🔗 LinkedIn
-
-🧑‍💻 GitHub
-
-📧 Email: mohammedfarooq.devops@gmail.com
-
-⚡ Fun Fact
-
-⚽ I love football and exploring new cloud & DevOps tools to automate everything.
+## ⚽ Interests
+Football • Exploring Cloud & DevOps tools • Automation
