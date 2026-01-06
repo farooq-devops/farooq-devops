@@ -73,11 +73,6 @@ EC2 • EKS • S3 • RDS • IAM • CloudFront • Route 53 • WAF • ALB �
 
 ---
 
-## 📊 GitHub Stats
-![Farooq's GitHub stats](https://github-readme-stats.vercel.app/api?username=farooq-devops&show_icons=true)
-
----
-
 ## 📌 Pinned Projects
 👨‍💻 Check out all my projects at  
 https://github.com/farooq-devops?tab=repositories
