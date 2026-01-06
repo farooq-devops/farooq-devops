@@ -10,8 +10,7 @@ Hi there, I'm Mohammed Farooq! 👋
 ---
 
 ## 🌐 Connect with me
-[LinkedIn](https://www.linkedin.com/in/your-linkedin-username)  
-[GitHub](https://github.com/farooq-devops)
+[LinkedIn](https://www.linkedin.com/in/farooqmohammed9)  
 
 ---
 
@@ -44,16 +43,6 @@ EC2 • EKS • S3 • RDS • IAM • CloudFront • Route 53 • WAF • ALB �
 
 ---
 
-## 📊 GitHub Stats
-![Farooq's GitHub stats](https://github-readme-stats.vercel.app/api?username=farooq-devops)
-
----
-
-## 📌 Pinned Projects
-👨‍💻 Check out all my projects at  
-https://github.com/farooq-devops?tab=repositories
-
----
 
 ## ⚽ Interests
 Football • Exploring Cloud & DevOps tools • Automation
